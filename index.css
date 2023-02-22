@@ -6,8 +6,6 @@
 }
 body{
   background-color: transparent;
-
-
 }
 
 
@@ -30,7 +28,6 @@ body{
   background-color: white;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
-
 }
 
 input[type="submit"]{
@@ -45,7 +42,6 @@ input[type="submit"]{
 
 input[type="submit"]:hover{
   transform: scale(1.05);
-
 }
 
 
@@ -59,14 +55,12 @@ input{
   border-radius: 5px;
   height: 30px;
   width: 300px;
-
 }
 
 input[type="checkbox"]{
   display: flex;
   float: left;
   height: 15px;
-
 }
 
 .login-box label {
