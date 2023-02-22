@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Open+Sans:wght@300&family=Roboto+Mono:wght@100&family=Russo+One&family=Zeyada&display=swap');
+
+
+*{
+  font-family: 'Russo One', sans-serif;
+}
+body{
+  background-color: transparent;
+
+
+}
+
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+}
+
+.login-box{
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+
+}
+
+input[type="submit"]{
+ background-color: #007fff;
+ border: none;
+ height: 50px;
+ border-radius: 5px;
+ color: white;
+ width: 300px;
+ cursor: pointer;
+}
+
+input[type="submit"]:hover{
+  transform: scale(1.05);
+
+}
+
+
+input{  
+  margin-bottom: 20px;
+  border: 2px solid rgb(243, 237, 237);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  
+  border-radius: 5px;
+  height: 30px;
+  width: 300px;
+
+}
+
+input[type="checkbox"]{
+  display: flex;
+  float: left;
+  height: 15px;
+
+}
+
+.login-box label {
+  align-items: center;
+}
+
+
+.login-box form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* estilos adicionais */
+}
+
+
+.forgot-password{
+  margin-left: 170px;
+  text-decoration: none;
+  color: #007fff;
+  font-size: 15px;
+}
+
+i{
+  width: 100px;
+}
