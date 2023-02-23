@@ -6,6 +6,8 @@
 }
 body{
   background-color: transparent;
+
+
 }
 
 
@@ -28,6 +30,7 @@ body{
   background-color: white;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+
 }
 
 input[type="submit"]{
@@ -42,6 +45,7 @@ input[type="submit"]{
 
 input[type="submit"]:hover{
   transform: scale(1.05);
+
 }
 
 
@@ -50,16 +54,18 @@ input{
   border: 2px solid rgb(243, 237, 237);
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 20px;
+  padding-left: 20px; 
   border-radius: 5px;
   height: 30px;
   width: 300px;
+
 }
 
 input[type="checkbox"]{
   display: flex;
   float: left;
   height: 15px;
+
 }
 
 .login-box label {
@@ -83,6 +89,35 @@ input[type="checkbox"]{
   font-size: 15px;
 }
 
+.register{
+  margin-right: 170px;
+  text-decoration: none;
+  margin-top: -18px;
+  color: #007fff;
+  font-size: 15px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
 i{
   width: 100px;
 }
+
+
+.other h2{
+  text-align: center;
+}
+
+img {
+  height: 40px;
+  width: 40px;
+ 
+
+}
+
+.git{
+  height: 48px;
+  width: 48px;
+}
+
