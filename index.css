@@ -89,6 +89,10 @@ input[type="checkbox"]{
   font-size: 15px;
 }
 
+.forgot-password:hover{
+  text-decoration: underline;
+}
+
 .register{
   margin-right: 170px;
   text-decoration: none;
@@ -100,6 +104,10 @@ input[type="checkbox"]{
   cursor: pointer;
 }
 
+.register:hover{
+  text-decoration: underline;
+}
+
 i{
   width: 100px;
 }
@@ -107,6 +115,7 @@ i{
 
 .other h2{
   text-align: center;
+  color: #007fff;
 }
 
 img {
