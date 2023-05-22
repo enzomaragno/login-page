@@ -1,5 +1,16 @@
-# login-page
-A basic and beautiful login page using only HTML and CSS!
+<p align="center">
 
-# Credits
-Please, if you fork, give a star!
+<img src="preview-login.png" width="100%">
+
+</p>
+
+## 💻 About the Project
+This is a  web project about a simple login page to test myself!
+
+## 🚀 Technologies
+This project was developed with following technologies:
+
+- HTML
+- CSS
+- Git e Github
+- Figma
